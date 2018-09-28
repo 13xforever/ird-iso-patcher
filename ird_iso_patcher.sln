@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_patcher", "test_patcher\test_patcher.csproj", "{539D10EB-A4F6-4BE1-B64A-60E832BA9600}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ird_iso_patcher", "ird_iso_patcher\ird_iso_patcher.csproj", "{539D10EB-A4F6-4BE1-B64A-60E832BA9600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584A8E1A-959B-43C3-B190-35BA5F7322DC}
 	EndGlobalSection
 EndGlobal
